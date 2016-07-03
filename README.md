@@ -9,6 +9,10 @@
 
 希望小伙伴能和我一起提交代码,改善它.
 
+there are info note comes from the middleware Pageres(https://github.com/sindresorhus/pageres):
+> PhantomJS, which is used for generating the screenshots, is installed automagically, but in some [rare cases](https://github.com/Obvious/phantomjs/issues/102) it might fail to and you'll get an Error: spawn EACCES error. [Download](http://phantomjs.org/download.html) PhantomJS manually and reinstall pageres if that happens.
+
+
 联系方式:
 adobe1874@126.com
 
